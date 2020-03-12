@@ -1,6 +1,11 @@
 # LED-Lamp-Tester
-Evaluatie week 5: LED lamp tester
+Evaluation week 5: LED lamp tester
 
+You can measure the lightintensity and temperature from a LED lamp.
+You can see the measurements in the Serial Monitor and on the OLED Display.
+I used the ESP32 microcontroller cause it's small, fast and easy and it has WiFi.
+
+Used parts:
 - ESP32 Microcontroller
 - BH1750 (digital lux sensor)
 - BMP280 (digital temperature sensor)
