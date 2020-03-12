@@ -12,5 +12,5 @@ Pins:
 - GPIO22 SCL
 
 ![Schema](https://github.com/DriesDebouver/LED-Lamp-Tester/blob/master/Schema.JPG)
-![Breadboard](https://github.com/DriesDebouver/LED-Lamp-Tester/blob/master/Breadboard.JPG)
+![Breadboard](https://github.com/DriesDebouver/LED-Lamp-Tester/blob/master/Breadboard.jpg)
 ![SerialMonitor](https://github.com/DriesDebouver/LED-Lamp-Tester/blob/master/SerialMonitor.JPG)
