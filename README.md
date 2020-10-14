@@ -1,5 +1,4 @@
 # LED-Lamp-Tester
-Evaluation week 5: LED lamp tester
 
 You can measure the lightintensity and temperature from a LED lamp.
 You can see the measurements in the Serial Monitor and on the OLED Display.
